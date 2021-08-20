@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:building_layout_tutorial/src/home.dart';
+import 'package:building_layout_tutorial/src/views/home.dart';
 
 class App extends StatelessWidget {
   @override

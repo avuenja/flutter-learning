@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:building_layout_tutorial/src/widgets/favorite.dart';
+
 Color color = Colors.red;
 
 class HomePage extends StatelessWidget {
@@ -54,11 +56,7 @@ Widget titleSection = Container(
           ],
         ),
       ),
-      Icon(
-        Icons.star,
-        color: Colors.red.shade500,
-      ),
-      const Text('41'),
+      AppFavorite(),
     ],
   ),
 );
