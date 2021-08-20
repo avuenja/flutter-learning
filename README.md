@@ -48,11 +48,28 @@
   - [x] Deep linking
   - [x] URL strategies
 
-### Advanced UI
+### User Interface
 
-- [ ] Animations
-- [ ] Advanced UI
+- [x] Animations
+  - [x] Overview
+  - [x] Implicit animations
+  - [x] Hero animations
+  - [x] Staggered animations
+- [x] Advanced UI
+  - [x] Slivers
+  - [x] Gestures
+  - [x] Splash screens
+  - [x] Using Actions and Shortcuts
 
 ### Data & Backend
 
 - [ ] State management
+- [ ] Networking & `http`
+- [ ] JSON & serialization
+- [ ] Firebase
+- [ ] Google APIs
+
+### Accessibility & internalization
+
+- [ ] Accessibility
+- [ ] Internalization
